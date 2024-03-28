@@ -1,0 +1,18 @@
+[1mdiff --git a/cursospringrestapi/src/main/java/com/example/demo/CursospringrestapiApplication.java b/cursospringrestapi/src/main/java/com/example/demo/CursospringrestapiApplication.java[m
+[1mindex 7c7a507..fc0bae1 100644[m
+[1m--- a/cursospringrestapi/src/main/java/com/example/demo/CursospringrestapiApplication.java[m
+[1m+++ b/cursospringrestapi/src/main/java/com/example/demo/CursospringrestapiApplication.java[m
+[36m@@ -20,12 +20,7 @@[m [mimport org.springframework.web.servlet.config.annotation.EnableWebMvc;[m
+ @EnableAutoConfiguration[m
+ public class CursospringrestapiApplication {[m
+ [m
+[31m-	[m
+[31m-	[m
+[31m-	[m
+[31m-	[m
+[31m-	[m
+[31m-	[m
+[32m+[m
+ 	public static void main(String[] args) {[m
+ 		SpringApplication.run(CursospringrestapiApplication.class, args);[m
+ 	}[m
